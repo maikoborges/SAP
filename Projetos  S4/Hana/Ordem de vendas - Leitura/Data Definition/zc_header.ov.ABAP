@@ -25,4 +25,5 @@ provider contract transactional_query
       /* Associations */
       /* Associação com redirecionamento para a filha */
       _SalesOrderItem : redirected to composition child ZC_ITENS_OV
+      
 }
