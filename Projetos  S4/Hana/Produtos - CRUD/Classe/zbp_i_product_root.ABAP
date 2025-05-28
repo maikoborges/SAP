@@ -93,4 +93,5 @@ CLASS lhc_Products IMPLEMENTATION.
 
   ENDMETHOD.
 
+  
 ENDCLASS.
