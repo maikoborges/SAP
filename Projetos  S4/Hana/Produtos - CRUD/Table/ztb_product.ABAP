@@ -17,4 +17,5 @@ define table ztb_product_zmbo {
   last_changed_at       : timestampl;
   local_last_changed_at : timestampl;
 
+  
 }
