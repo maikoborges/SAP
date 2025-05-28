@@ -23,4 +23,5 @@ define root view entity ZI_PRODUCT_ROOT
       last_changed_at       as LastChangedAt,
       @Semantics.systemDateTime.localInstanceLastChangedAt: true
       local_last_changed_at as LocalLastChangedAt
+      
 }
