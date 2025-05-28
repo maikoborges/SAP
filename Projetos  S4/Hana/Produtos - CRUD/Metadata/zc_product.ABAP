@@ -46,4 +46,5 @@ annotate entity ZC_PRODUCT_ZMBO with
   @UI.hidden: true
   LocalLastChangedAt;
 
+  
 }
