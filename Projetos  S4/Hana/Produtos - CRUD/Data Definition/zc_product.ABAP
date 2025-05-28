@@ -15,4 +15,5 @@ define root view entity ZC_PRODUCT_ZMBO
       LastChangedBy      as LastChangedBy,
       LastChangedAt      as LastChangedAt,
       LocalLastChangedAt as LocalLastChangedAt
+      
 }
