@@ -29,4 +29,5 @@ annotate entity ZC_ITENS_OV
   Batch;
   @UI.lineItem: [{ position: 130 }]
   Plant;
+  
 } 
