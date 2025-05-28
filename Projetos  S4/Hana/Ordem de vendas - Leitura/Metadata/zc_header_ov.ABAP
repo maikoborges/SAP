@@ -67,5 +67,4 @@ annotate entity ZC_CABEC_OV
   @UI.identification: [{ position: 120 }]
   TransactionCurrency;
  
-    
 }
